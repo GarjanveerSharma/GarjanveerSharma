@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Garjanveer Sharma</h1>
-- 📍 Solving DSA Problems @Leetcode [https://leetcode.com/u/Garjanveersharma/](https://leetcode.com/u/Garjanveersharma/)
-
-- 🌱 I’m currently learning *DSA in C++*
-
-- 📫 How to reach me *garjanveersharma06@gmail.com*
+👋🏻 Hello, I'm Garjanveer sharma
+😃 I am currently doing DSA in C++
+📖 Btech in Computer Science
+📧 My Gmail Account : garjanveersharma06@gmail.com
+📍Solving DSA Problems @Leetcode ..... [https://leetcode.com/u/Garjanveersharma/]
+👀 seeking Great apportunities
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
