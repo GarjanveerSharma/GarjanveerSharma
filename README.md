@@ -61,3 +61,18 @@
 
 
 ###
+
+<div align="left">
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+
+  <!-- Gmail Icon -->
+  <a href="mailto:garjanveersharma06@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+</div>
+
+###
+
