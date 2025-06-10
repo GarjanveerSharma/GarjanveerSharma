@@ -62,6 +62,9 @@
 
 ###
 
+<h3 align="left"> 📧 How To Connect Me :)</h3>
+
+
 <div align="left">
   <!-- LinkedIn Icon -->
   <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank" rel="noreferrer">
