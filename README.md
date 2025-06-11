@@ -62,7 +62,7 @@
 
 ###
 
-<h3 align="left"> 📧 How To Connect Me :)</h3>
+<h3 align="left"> 📧 How To Contact Me :)</h3>
 
 
 <div align="left">
