@@ -1,81 +1,70 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer gif" />
 </div>
 
-###
+<br/>
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-   </a> 
-</div>
-
-###
-
-###
-
-<h1 align="center">hey there 👋 I am Garjanveer Sharma</h1>
-
-###
-
-<h3 align="left">👩‍💻  I am currently solving DSA Problems @Leetcode</h3>
-
-###
-
-<p align="left">My Leetcode Profile: https://leetcode.com/u/Garjanveersharma/<br><br>- 📧 My Gmail Account : garjanveersharma06@gmail.com<br>- 📚 I'm currently Doing DSA in C++<br>- ⚡ 👀 seeking Great apportunities</p>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.leetcode.com/garjanveersharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="garjanveersharma" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
+    <img src="https://img.shields.io/badge/Garjanveer%20Sharma-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  
-  <!-- C -->
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-</p>
-
-
-###
-
-<h3 align="left"> 📧 How To Contact Me :)</h3>
-
-
-<div align="left">
-  <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-
-  <!-- Gmail Icon -->
   <a href="mailto:garjanveersharma06@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-DM_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/garjanveersharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DSA_Progress-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
+<h1 align="center">Hey 👋, I'm Garjanveer Sharma</h1>
+<h3 align="center">Aspiring Software Developer | DSA Enthusiast | C++ Coder</h3>
+
+---
+
+### 🚀 About Me
+- 🔭 Currently solving DSA problems daily on **LeetCode**
+- 📚 Learning **Data Structures & Algorithms in C++**
+- 💻 Tech Stack: C++, C, JavaScript, HTML, CSS
+- 🔍 Open to great **internships, SDE roles, and collaborations**
+- 📫 Reach me at: **garjanveersharma06@gmail.com**
+
+---
+
+### 📊 My LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/garjanveersharma?theme=light&font=Roboto&extension=activity" width="95%" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" /></a>
+  <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" /></a>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:garjanveersharma06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Garjanveersharma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
