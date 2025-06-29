@@ -1,62 +1,64 @@
+<!-- 💻 TECHNICAL HEADER GIF -->
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer gif" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
 </div>
 
 <br/>
 
+<!-- 🔗 CONNECT LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
-    <img src="https://img.shields.io/badge/Garjanveer%20Sharma-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Garjanveer%20Sharma-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:garjanveersharma06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-DM_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://leetcode.com/garjanveersharma/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-DSA_Progress-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </div>
 
 ---
 
-<h1 align="center">Hey 👋, I'm Garjanveer Sharma</h1>
-<h3 align="center">Aspiring Software Developer | DSA Enthusiast | C++ Coder</h3>
+<!-- ⌨️ TYPING ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Garjanveer+Sharma;AI+%7C+Web+Dev+Lover;Let's+build+something+awesome!" />
+</h1>
+
+
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently solving DSA problems daily on **LeetCode**
-- 📚 Learning **Data Structures & Algorithms in C++**
-- 💻 Tech Stack: C++, C, JavaScript, HTML, CSS
-- 🔍 Open to great **internships, SDE roles, and collaborations**
-- 📫 Reach me at: **garjanveersharma06@gmail.com**
+
+- 🔥 Daily DSA Practice on **LeetCode**  
+- 💡 Currently Learning: **C++, JavaScript, React**  
+- 🛠️ Building: Web Apps using **HTML, CSS, JS**  
+- 📬 Contact me at: **garjanveersharma06@gmail.com**
 
 ---
 
-### 📊 My LeetCode Stats
+### 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/garjanveersharma?theme=light&font=Roboto&extension=activity" width="95%" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/garjanveersharma?theme=dark&font=JetBrains+Mono&ext=activity" width="90%" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧰 Languages & Tools
 
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" /></a>
-  <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" /></a>
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,vscode,github" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/garjanveer-sharma-503310344" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Message-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:garjanveersharma06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send_Mail-red?style=for-the-badge&logo=gmail" />
@@ -66,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Garjanveersharma&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Garjanveersharma&label=Profile%20views&color=brightgreen&style=flat" />
 </p>
