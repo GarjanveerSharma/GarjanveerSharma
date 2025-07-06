@@ -50,7 +50,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,vscode,github" />
 </p>
 
 ---
