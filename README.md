@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LeetCode-DSA%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
     <a href="https://codeforces.com/profile/Garjanveersharma" target="_blank">
-    <img src="https://img.shields.io/badge/codeforces-Competitive_Programming%20Profile-orange?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/codeforces%20Profile-orange?style=for-the-badge&logo=codeforces" />
   </a>
 </div>
 
