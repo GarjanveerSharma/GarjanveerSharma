@@ -35,7 +35,7 @@
 ### 🚀 About Me
 
 - 🔥 Daily DSA Practice on **LeetCode**  
-- 💡 Currently Learning: **DSA , WebDev , AI/ML**  
+- 💡 Currently Learning: **DSA , MERN-Stack , AI/ML**  
 - 🛠️ Building: Web Apps
 - 📍 Work in Progress 
 - 📬 Contact me at: **garjanveersharma06@gmail.com**
