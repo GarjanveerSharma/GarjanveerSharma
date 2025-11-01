@@ -16,8 +16,8 @@
   <a href="https://leetcode.com/garjanveersharma/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-DSA%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-    <a href="https://codeforces.com/profile/Garjanveersharma" target="_blank">
-    <img src="https://img.shields.io/badge/codeforces%20Profile-orange?style=for-the-badge&logo=codeforces" />
+  <a href="https://codeforces.com/profile/Garjanveersharma" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces" />
   </a>
 </div>
 
@@ -25,20 +25,17 @@
 
 <!-- ⌨️ TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Garjanveer+Sharma;Competitive+Programmer;Exploring+Machine+Learning+and+AI;Let's+build+something+awesome!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hey+%F0%9F%91%8B+I'm+Garjanveer+Sharma;Competitive+Programmer;DSA+on+LeetCode;Machine+Learning+Explorer;Let's+build+something+awesome!" />
 </h1>
-
-
-
 
 ---
 
 ### 🚀 About Me
 
-- 🔥 Daily DSA Practice on **LeetCode**  
-- 💡 Currently Learning: **DSA , MERN-Stack , AI/ML**  
-- 🛠️ Building: Web Apps
-- 📍 Work in Progress 
+- 🔥 Solving **DSA Problems on LeetCode**
+- ⚡ Doing **Competitive Programming on Codeforces**
+- 💡 Currently Learning: **Data Structures, Algorithms & Machine Learning**
+- 🛠️ Building: **Machine Learning Projects**
 - 📬 Contact me at: **garjanveersharma06@gmail.com**
 
 ---
@@ -54,9 +51,10 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mongodb,express,react,nodejs,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,vscode,github" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" height="50" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="50" title="Pandas" />
 </p>
-
 
 ---
 
