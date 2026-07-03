@@ -69,7 +69,7 @@ Currently focusing on
 ## 💻 Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode"/>
 </p>
 
 ---
@@ -123,16 +123,6 @@ Currently focusing on
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Garjanveersharma&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Garjanveersharma&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garjanveersharma&layout=compact&theme=tokyonight"/>
 
 </p>
 
