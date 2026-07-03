@@ -97,11 +97,11 @@ Currently focusing on
 
 ---
 
-## ☁️ Currently Learning
+## ☁️ Currently Learning (Learning phase )
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,transformers,onnx"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface"/>
 
 </p>
 
