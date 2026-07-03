@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="220"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 </div>
 
 <br>
@@ -12,7 +12,7 @@
 
 # Hi 👋 I'm Garjanveer Sharma
 
-### 🚀 AI/ML Engineer in Progress • Competitive Programmer • DSA Enthusiast
+### 🚀 AI/ML Engineer in Progress • Competitive Programmer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Competitive+Programmer;AI+%26+Machine+Learning+Explorer;Building+Intelligent+Applications;Learning+MLOps+%26+LLMs;Always+Learning+Something+New+🚀" />
 
