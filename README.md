@@ -57,10 +57,11 @@ Currently focusing on
 - 🧠 Data Structures & Algorithms
 - 🤖 Machine Learning
 - 🧩 Deep Learning
-- ⚡ Large Language Models (LLMs)
-- 🚀 MLOps
+- 🚀 MLOps (Learning phase)
 - ☁️ Model Deployment
+- 🧑🏻‍💻 C++
 - 📈 Competitive Programming
+- System Design & Core fundamentals
 
 ---
 
